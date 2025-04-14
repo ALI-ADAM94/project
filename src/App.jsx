@@ -1,4 +1,4 @@
-import Chat from "./components/chat/chat"
+import Chat from "./components/chat/Chat"
 import List from "./components/list/list"
 import Detail from './components/detail/Detail.jsx'
 
