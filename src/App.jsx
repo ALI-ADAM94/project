@@ -1,5 +1,5 @@
 import Chat from "./components/chat/Chat"
-import List from "./components/list/list"
+import List from "./components/list/List"
 import Detail from './components/detail/Detail.jsx'
 
 const App = () => {
