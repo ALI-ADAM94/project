@@ -36,8 +36,8 @@
 
     
 
-  "preview": "vite preview",
-  "predeploy":"npm run build"
+  "preview": "vite preview"
+
   
 
   },
