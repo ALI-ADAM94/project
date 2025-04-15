@@ -9,6 +9,7 @@ base : process.env.VITE_BASE_PATH || "/project",
 
 
 })
+// 
 //   base:"/react-firebase-chat"
 //   "homepage": "https://ALI-ADAM94.github.io/react-firebase-chat/",
 //       "predeploy":"npm run build",

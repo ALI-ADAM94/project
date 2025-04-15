@@ -10,7 +10,7 @@
 
     }
    .search .searchBar{
-        flex: 1;
+   
         background-color: rgba(17, 25, 40, 0.5);
         display: flex;
         align-items: center;
