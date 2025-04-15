@@ -56,6 +56,7 @@ const Chatlist = () => {
             <p>Hello</p>
          </div>
     </div>
+    <addUser/>
     </div>
   )
 }
