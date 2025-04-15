@@ -44,12 +44,7 @@
                 border-radius:50%;
                 object-fit: cover;
             }
-            span{
-                position:absolute;
-                margin-bottom:50%;
-                text-align: center;
-                align-items: center;
-            }
+
         }
         button{
             padding: 10px;
