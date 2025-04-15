@@ -4,7 +4,7 @@ import Detail from './components/detail/Detail.jsx'
 import Login from "./components/login/Login";
 import Notification from './components/notification/Notification.jsx';
 const App = () => {
-  const user =true;
+  const user = true;
   return (
     <div className='container'>
     {
