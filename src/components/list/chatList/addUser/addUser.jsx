@@ -9,7 +9,7 @@ const AddUser = () => {
     </form>
     <div className="user">
         <div className="detail">
-            <img src="./avatar.png" alt=""/><br/>
+            <img src="./avatar.png" alt=""/>
             <span>Ali Adam</span>
         </div>
         <button>AddUser</button>
