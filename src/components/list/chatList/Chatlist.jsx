@@ -56,9 +56,13 @@ const Chatlist = () => {
             <p>Hello</p>
          </div>
     </div>
-    <addUser/>
+    <>
+        <addUser/>
+    </>
+   
     </div>
-  )
+    
+  )    
 }
 
 export default Chatlist
