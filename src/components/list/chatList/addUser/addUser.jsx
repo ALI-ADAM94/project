@@ -11,9 +11,8 @@ const AddUser = () => {
         <div className="detail">
             <img src="./avatar.png" alt=""/>
             <span>Ali Adam</span>
-              <button>AddUser</button>
         </div>
-      
+          <button>AddUser</button>
     </div>
     </div>
   )
