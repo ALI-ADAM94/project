@@ -45,8 +45,8 @@
                 object-fit: cover;
             }
             span{
-                position: relative;
-                margin-top:-50%;
+                position:fixed;
+                margin-bottom:50%;
                 text-align: center;
                 align-items: center;
             }
