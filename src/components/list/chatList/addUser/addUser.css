@@ -36,7 +36,7 @@
         justify-content: space-between;
         .detail{
             display: flex;
-            text-align: center;
+            align-items: center;
             gap: 20px;
             img{
                 width: 50px;
