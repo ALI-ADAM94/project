@@ -13,13 +13,14 @@
     form{
         display: flex;
         gap: 20px;
+        color: black;
         input{
             padding: 20px;
             border-radius: 10px;
             border: none;
             outline: none;
             background-color: aliceblue;
-            color: black;
+
           
         }
         button{
